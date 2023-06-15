@@ -8,6 +8,8 @@ pinned = false
 
 #### **Inmitten des Buochser Quais, besetzt vom Trubel des Jahrmarktes, sticht ein Stand hervor, dessen bezaubernd süsser Duft das Herz eines jeden Naschkatzen höherschlagen lässt: Sandras und Sabines Bonbon-Werkstatt. Gemeinsam ist es den beiden passionierten Bonbonmacherinnen gelungen, das traditionelle Handwerk der Bonbonherstellung mit zeitgemässer Unterhaltung zu verbinden und damit die Aufmerksamkeit zahlreicher Marktbesucher auf sich zu ziehen. Es herrscht eine Atmosphäre, in der die Magie der Bonbonherstellung förmlich spürbar ist.**
 
+
+
 ![Alles, was das Herz begehrt: Die Live-Bonbonmanufaktur (links) und die fertigen Leckereien (rechts), wunderschön angerichtet als Marktstand. - © www.bonbonwerkstatt.ch](picture-bonbon.jpg)
 
 **Grosse Dinge beginnen oft klitzeklein**
