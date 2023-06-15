@@ -8,6 +8,8 @@ pinned = false
 
 ### Inmitten des Buochser Quais, besetzt vom Trubel des Jahrmarktes, sticht ein Stand hervor, dessen bezaubernd süsser Duft das Herz eines jeden Naschkatzen höherschlagen lässt: Sandras und Sabines Bonbon-Werkstatt. Gemeinsam ist es den beiden passionierten Bonbonmacherinnen gelungen, das traditionelle Handwerk der Bonbonherstellung mit zeitgemässer Unterhaltung zu verbinden und damit die Aufmerksamkeit zahlreicher Marktbesucher auf sich zu ziehen. Es herrscht eine Atmosphäre, in der die Magie der Bonbonherstellung förmlich spürbar ist.
 
+![Alles, was das Herz begehrt: Die Live-Bonbonmanufaktur (links) und die fertigen Leckereien (rechts), wunderschön angerichtet als Marktstand. - © www.bonbonwerkstatt.ch](picture-bonbon.jpg)
+
 **Grosse Dinge beginnen oft klitzeklein**
 
 Schon seit ihrer frühen Schulzeit seien die beiden Lostorferinnen Sandra Hunziker und Sabine Hoffmann eng befreundet. Auf einer gemeinsamen Reise hätten sie das Handwerk kennengelernt und sich anschliessend dazu entschieden, die Kunst der Bonbonproduktion zu erlernen. Bei einer Befragung gibt Frau Hunziker von sich, dass Sabine Hoffmann ein vierwöchiges Praktikum in Oberhausen, in der Nähe von Köln, absolviert habe, während sie selbst einen Lehrgang in Augsburg besucht habe. Anschliessend hätten sie ihr erlangtes Wissen gemeinsam in die Praxis umsetzen wollen. «Grosse Dinge beginnen oft klitzeklein», meint Frau Hunziker und erzählt weiter, dass die Produktion ihren Anfang in Sabine Hoffmanns Keller genommen habe. Erst im Laufe der Zeit sei den beiden klar geworden, dass sie einen neuen Ort brauchten, um ihre Träume zu verwirklichen. Am Muttertag 2020 durchschnitten sie schliesslich das Band für ihren kleinen Laden in der Zofinger Altstadt.
