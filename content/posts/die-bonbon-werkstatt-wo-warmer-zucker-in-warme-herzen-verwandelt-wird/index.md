@@ -4,7 +4,7 @@ date = "2023-06-15"
 draft = false
 pinned = false
 +++
-**Zwei Lostorferinnen ist es gelungen, die traditionelle Kunst der Bonbonherstellung in eine neue Verpackung zu bringen, die fast so einzigartig ist wie die Süssigkeiten selbst.**
+## **Zwei Lostorferinnen ist es gelungen, die traditionelle Kunst der Bonbonherstellung in eine neue Verpackung zu bringen, die fast so einzigartig ist wie die Süssigkeiten selbst.**
 
 ### Inmitten des Buochser Quais, besetzt vom Trubel des Jahrmarktes, sticht ein Stand hervor, dessen bezaubernd süsser Duft das Herz eines jeden Naschkatzen höherschlagen lässt: Sandras und Sabines Bonbon-Werkstatt. Gemeinsam ist es den beiden passionierten Bonbonmacherinnen gelungen, das traditionelle Handwerk der Bonbonherstellung mit zeitgemässer Unterhaltung zu verbinden und damit die Aufmerksamkeit zahlreicher Marktbesucher auf sich zu ziehen. Es herrscht eine Atmosphäre, in der die Magie der Bonbonherstellung förmlich spürbar ist.
 
@@ -22,7 +22,7 @@ Von lokalen Landwirten und leidenschaftlichen Kunsthandwerkern bis hin zu mitrei
 
 Die Live-Aufführung der Bonbonproduktion ist zweifellos der Höhepunkt des Marktbesuchs. Die Besucher sind eingeladen, in eine Welt voller Farben, Geschmacksrichtungen und faszinierenden Techniken einzutauchen. Schritt für Schritt können Zuschauer den ganzen Prozess der Bonbonherstellung beobachten: vom kristallinen Zucker bis hin zu der fertigen Leckerei. Dabei wird von den Bonbonmacherinnen immer ganz genau erklärt, was sie tun und worauf man dabei achten muss. Sie geben aber nicht nur ihr Wissen und ihre Leidenschaft für das Handwerk weiter, sondern beantworten auch geduldig die Fragen der Umstehenden und es entsteht eine einzigartige Verbindung zwischen den Besuchern und der Kunst der Bonbonherstellung. Laut Frau T. Oppliger, einer begeisterten Kundin der Live-Show, sei es unglaublich, wie die Bonbonmacherinnen den Zucker in die kleinen farbigen Bonbons verwandeln – sie habe so etwas noch nie zuvor vor Ort mitverfolgen können. Weiter äusserte sie sich, dass man förmlich spüren könne, wie viel Liebe und Leidenschaft in jedes einzelne Bonbon gesteckt wird und wie viel Erfahrung dahinterstecke.
 
-![Alles, was das Herz begehrt: Die Live-Bonbonmanufaktur (links) und die fertigen Leckereien (rechts), wunderschön angerichtet als Marktstand. - © www.bonbonwerkstatt.ch](picture-bonbon.jpg)
+![]()
 
 **Ein Freund fürs Leben**
 
