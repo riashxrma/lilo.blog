@@ -4,7 +4,7 @@ date = "2023-06-15"
 draft = false
 pinned = false
 +++
-## **Zwei Lostorferinnen ist es gelungen, die traditionelle Kunst der Bonbonherstellung in eine neue Verpackung zu bringen, die fast so einzigartig ist wie die Süssigkeiten selbst.** 
+## **Zwei Lostorferinnen ist es gelungen, die traditionelle Kunst der Bonbonherstellung in eine neue Verpackung zu bringen, die fast so einzigartig ist wie die Süssigkeiten selbst.**
 
 
 
