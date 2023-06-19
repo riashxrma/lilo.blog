@@ -10,6 +10,8 @@ pinned = false
 
 
 
+
+
 ![Alles, was das Herz begehrt: Die Live-Bonbonmanufaktur (links) und die fertigen Leckereien (rechts), wunderschön angerichtet als Marktstand. - © www.bonbonwerkstatt.ch](picture-bonbon.jpg)
 
 **Grosse Dinge beginnen oft klitzeklein**
